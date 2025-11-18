@@ -2,7 +2,7 @@
 
 **Data-Driven Business Analyst**
 
-*Columbia, NJ | [Email](mailto:ashwinidatthuk@gmail.com)*
+*Columbia, NJ | [ashwinidatthuk@gmail.com](mailto:ashwinidatthuk@gmail.com)*
 
 ---
 
