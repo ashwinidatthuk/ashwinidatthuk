@@ -56,16 +56,6 @@ A results-oriented Business Analyst with 4+ years of experience leveraging data 
 
 ---
 
-## 📈 GitHub Projects
-
-*(This is where you can link to any personal data or business analysis projects you host on GitHub. For example:)*
-
-- **[Project 1: SQL Data Analysis Portfolio](link-to-your-repo)** | A collection of SQL queries demonstrating data exploration, validation, and analysis.
-- **[Project 2: Tableau Dashboard for Sales Insights](link-to-your-repo)** | An interactive dashboard visualizing sales performance and key metrics.
-- **[Project 3: BRD & Process Mapping Example](link-to-your-repo)** | Sample business requirements documentation and workflow diagrams for a hypothetical feature.
-
----
-
 ## 📫 Let's Connect
 
 I'm always open to discussing new opportunities, data challenges, or potential collaborations.
